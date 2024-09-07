@@ -8,13 +8,13 @@ This project prints "Full Cycle Rocks!!" using a Go program inside a Docker cont
 Run the following command in the project directory:
 
 ```bash
-docker build -t <your-dockerhub-username>/fullcycle .
+docker build -t alexoliveira97/fullcycle .
 ```
 ### 2. Run the Docker Image
 Run the following command in the project directory:
 
 ```bash
-docker run <your-dockerhub-username>/fullcycle
+docker run alexoliveira97/fullcycle
 ```
 
 You should see the output:
